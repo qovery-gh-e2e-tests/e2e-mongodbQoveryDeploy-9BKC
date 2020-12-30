@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: mongodbQoveryDeploy5VJH51MX
+  organization: QoveryTest
+databases:
+- type: redis
+  version: 6
+  name: e2e-mongodb
